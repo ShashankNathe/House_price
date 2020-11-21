@@ -1,0 +1,24 @@
+
+#result{
+    text-align: center;
+
+    font-family: Verdana;
+    padding: 5px;
+    color:#002366 ;
+    border-radius: 40px;
+    margin-left: 500px;
+    margin-right:500px;
+    font-size:25px;
+
+}
+
+#result1{
+    text-align: center;
+
+    font-family: Verdana;
+    padding: 5px;
+    color:Black ;
+    float: bottom;
+
+}
+
